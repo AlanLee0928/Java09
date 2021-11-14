@@ -23,3 +23,4 @@ public class Class04 {
 		box1.show();
 	}
 }
+//在物件裡面加入資料就好了
